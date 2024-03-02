@@ -1,4 +1,4 @@
-# neuralnetwork
+# Neural Network Projects
 Bilkent University 6th Semester Neural Networks Course Projects.
 
 These projects are crafted by Ahmet Bera Özbolat as part of the Neural Networks Course curriculum. All projects are implemented using Python.
